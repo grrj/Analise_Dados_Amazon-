@@ -1,4 +1,4 @@
-# Analise_Dados_Amazon-
+# Analise Exploratória de Dados da Amazon
 
 Neste projeto, uma análise explorátoria foi feita encima de um data set da Amazon importados do Kaggle. 
 Os dados foram limpados, filtrados e organizados de uma maneira que se pudesse tirar insights sobre 
